@@ -1,0 +1,31 @@
+2024-11-13~
+ES : 6025,HvolC;6000,HvolP;6035,Upper PDVR;5995,Lower PDVR;6025,Upper CDVR;6015,Lower CDVR;6030,Last 10K CBlock;5990,Last 10K PBlock
+NQ : 21250,Upper PDVR;21090,Lower PDVR;21200,Upper CDVR;21150,Lower CDVR;21200,Upper Hvol Range;21200,Golden Hvol;21320,Last 1K Block;21300,Block;21000,Last 1K Block;21070,Block;21025,Block
+SPX : 6000,HvolC;5980,HvolP;6010,Upper PDVR;5965,Lower PDVR;6020,Upper CDVR;5950,Lower CDVR;6000,Upper Hvol Range;5975,Lower Hvol Range;6050,Last 10K CBlock;5915,Last 10K PBlock;5935,Golden CDVR;5940,Golden CDVR;6035,Golden CDVR;6040,Golden CDVR;6045,Golden CDVR;6000,100K Call Strike;6040,Upper Target #1;6050,Upper Target #2;6055,Upper Target #3;5950,Lower Target #1
+QQQ : 514,1st Call Vol;512,1st Put Vol;515,HvolC;512,HvolP;515,Upper PDVR;510,Lower PDVR;514,Upper CDVR;511,Lower CDVR;514,Upper Hvol Range;512,Lower Hvol Range;520,Last 10K CBlock;500,Last 10K PBlock;518,10K Call Block;504,10K Put Block
+SPY : 598,1st Call Vol;595,1st Put Vol;600,HvolC;597,HvolP;600,Upper PDVR;594,Lower PDVR;599,Upper CDVR;596,Lower CDVR;598,Upper Hvol Range;596,Lower Hvol Range;603,Last 20K CBlock;590,Last 20K PBlock
+
+
+2024-11-12~
+SPX : 6020,Upper PDVR;5985,Lower PDVR;6030,Upper CDVR;5970,Lower CDVR;6010,Upper Hvol Range;5995,Lower Hvol Range;6055,Last 10K CBlock;5950,Last 10K PBlock;6045,Golden CDVR;6040,Golden CDVR;5960,Golden CDVR;5950,Golden CDVR;5925,Golden CDVR;6000,Golden Hvol;6000,100K Call Strike;6040,Upper Target #1;6055,Upper Target #2;5950,Lower Target #1
+ES : 6035,HvolC;6015,HvolP;6045,Upper PDVR;6015,Lower PDVR;6030,Upper CDVR;6025,Lower CDVR;6040,Last 10K CBlock;6015,Last 10K PBlock;6000,Golden PDVR
+SPY : 599,1st Call Vol;598,1st Put Vol;600,HvolC;598,HvolP;600,Upper PDVR;597,Lower PDVR;600,Upper CDVR;598,Lower CDVR;600,Upper Hvol Range;598,Lower Hvol Range;603,Last 20K CBlock;592,Last 20K PBlock;594,20K Put Block
+QQQ : 514,1st Call Vol;512,1st Put Vol;513,HvolC;512,HvolP;515,Upper PDVR;511,Lower PDVR;515,Upper CDVR;512,Lower CDVR;514,Upper Hvol Range;512,Lower Hvol Range;519,Last 10K CBlock;502,Last 10K PBlock;510,10K Put Block;508,10K Put Block;507,10K Put Block;506,10K Put Block;505,10K Put Block;504,10K Put Block
+NQ : 21300,HvolC;21200,HvolP;21300,Upper PDVR;21100,Lower PDVR;21200,Upper CDVR;20700,Lower CDVR;21200,Upper Hvol Range;21400,Last 1K Block;21100,Block
+
+
+2024-11-11~
+SPX : 6015,Upper PDVR;5975,Lower PDVR;6030,Upper CDVR;5950,Lower CDVR;6005,Upper Hvol Range;5985,Lower Hvol Range;6040,Last 10K CBlock;5890,Last 10K PBlock;5925,10K Put Block;5910,10K Put Block;5925,Golden CDVR;5910,Golden CDVR;6000,Golden Hvol;6000,100K Call Strike;6040,Upper Target #1
+NQ : 21260,Upper PDVR;21140,Lower PDVR;21300,Upper CDVR;21200,Lower CDVR;21200,Golden Hvol;21400,Last 1K Block;21300,Block;21270,Block;20900,Last 1K Block;21100,Block;21050,Block;21025,Block;21020,Block;21000,Block;20950,Block;20925,Block
+QQQ : 515,1st Call Vol;514,1st Put Vol;515,Upper PDVR;512,Lower PDVR;515,Upper CDVR;513,Lower CDVR;514,Upper Hvol Range;513,Lower Hvol Range;520,Last 10K CBlock;509,Last 10K PBlock;518,10K Call Block;514,Golden Hvol
+ES : 6040,Upper PDVR;6000,Lower PDVR;6025,Upper CDVR;6050,Last 10K CBlock;6000,Last 10K PBlock;6000,Golden Hvol;5985,Low Call OI;6045,Low Put OI
+SPY : 600,1st Call Vol;596,1st Put Vol;600,HvolC;598,HvolP;600,Upper PDVR;595,Lower PDVR;599,Upper CDVR;596,Lower CDVR;599,Upper Hvol Range;597,Lower Hvol Range;603,Last 20K CBlock;590,Last 20K PBlock;593,20K Put Block
+
+
+2024-11-8~
+SPX : 6000,HvolC;5910,HvolP;5980,Upper PDVR;5950,Lower PDVR;6000,Upper CDVR;5920,Lower CDVR;5975,Upper Hvol Range;5960,Lower Hvol Range;6035,Last 10K CBlock;5865,Last 10K PBlock;6025,10K Call Block;6015,10K Call Block;5890,10K Put Block;5880,10K Put Block;5875,10K Put Block;5900,Golden CDVR
+NQ : 21200,HvolC;21000,HvolP;21170,Upper PDVR;21025,Lower PDVR;21300,Upper CDVR;20900,Lower CDVR;21000,Upper Hvol Range;21300,Last 1K Block;20600,Last 1K Block;20850,Block;20860,Block;20800,Block;20700,Block
+ES : 6000,HvolC;5975,HvolP;6010,Upper PDVR;5970,Lower PDVR;5980,Upper CDVR;5975,Lower CDVR;6000,Last 10K CBlock;5975,Last 10K PBlock;5960,Golden PDVR;5900,Golden CDVR;5950,Golden CDVR;5990,Golden CDVR;6000,Golden CDVR
+QQQ : 513,1st Call Vol;510,1st Put Vol;515,HvolC;510,HvolP;515,Upper PDVR;508,Lower PDVR;514,Upper CDVR;510,Lower CDVR;513,Upper Hvol Range;512,Lower Hvol Range;520,Last 10K CBlock;500,Last 10K PBlock;517,10K Call Block;507,10K Put Block;505,10K Put Block
+SPY : 596,1st Call Vol;593,1st Put Vol;600,HvolC;595,HvolP;596,Upper PDVR;592,Lower PDVR;596,Upper CDVR;593,Lower CDVR;595,Upper Hvol Range;594,Lower Hvol Range;603,Last 20K CBlock;590,Last 20K PBlock
+
