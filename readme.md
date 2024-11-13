@@ -4,11 +4,13 @@ Format is:
 {Year}-{month}-{day1}~
 
 {ticker1} : {price1},{label1};{price2},{label2},...
+
 {ticker2} : {price1},{label1};{price2},{label2},...
 
 {Year}-{month}-{day2}~
 
 {ticker1} : {price1},{label1};{price2},{label2},...
+
 {ticker2} : {price1},{label1};{price2},{label2},...
 
 See "bklevels.txt" in this repo for an example
